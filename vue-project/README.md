@@ -1,6 +1,7 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+# Погодное приложение
+Введите ваш город и получите прогноз погоды!
 
 ## Recommended IDE Setup
 
@@ -14,6 +15,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+```
+```sh
+npm install axios
 ```
 
 ### Compile and Hot-Reload for Development
